@@ -1,0 +1,6 @@
+{
+  "name": "EcclesiaOps - Gestión de Iglesia y Roster",
+  "description": "Prototipo interactivo de gestión eclesial para sedes, agenda de voluntarios, gestor de roster con sugerencias IA y dashboard general.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
